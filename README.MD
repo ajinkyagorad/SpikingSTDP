@@ -4,7 +4,7 @@
 
 This repository contains MATLAB code for simulating a spiking neural network using the Leaky Integrate-and-Fire (LIF) model. The neural network comprises both excitatory and inhibitory neurons. The simulation includes features like spike-timing-dependent plasticity (STDP), raster plots, weight histograms, and 3D visualizations of the network.
 
-[![Simulation Example](http://img.youtube.com/vi/EXAMPLE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID "Spiking Neural Network Simulation Example")
+[![Simulation Example]](https://youtu.be/c_4IzGkiUuU "Two inputs STDP Spiking Neural Network")
 
 ## Features
 
